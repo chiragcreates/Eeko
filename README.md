@@ -31,9 +31,6 @@ Example Card
 3. Save the resulting PNG card.
 4. Open the card in Eeko and enter the correct password to decrypt it.
 
-# Download Eeko
-https://github.com/chiragcreates/Eeko/releases
-
 # 🔐 Security
 Eeko uses AES-256-GCM authenticated encryption and PBKDF2-HMAC-SHA-256 for password-based key derivation.
 Use a strong, unique password. Anyone who obtains a card can attempt password guesses offline. Eeko has not been independently security-audited and is not a substitute for a professionally reviewed solution for highly sensitive information.
