@@ -3,6 +3,7 @@ Your message. Your secret. Your card.
 
 # ⬇️ Download Eeko for Android
 https://github.com/chiragcreates/Eeko/releases/latest
+
 Free · Android · Offline-focused
 Eeko is an offline-focused Android app that encrypts text and packages the encrypted data into PNG image cards.
 
