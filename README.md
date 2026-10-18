@@ -18,9 +18,16 @@ Eeko is an offline-focused Android app that encrypts text and packages the encry
 3. Save the resulting PNG card.
 4. Open the card in Eeko and enter the correct password to decrypt it.
 
-◻ Screenshots
+## ◻ Screenshots
 
-Screenshots coming soon.
+### Encode
+![Eeko Encode Screen](Screenshot_20261019_012127_Eeko.jpg)
+
+### Decode
+![Eeko Decode Screen](screenshots/decode.png)
+
+### Example Card
+![Eeko Example Card](screenshots/example-card.png)
 
 ↓ Download Eeko
 
