@@ -1,7 +1,10 @@
 Eeko — Private Messages. Picture Cards.
 
 Your message. Your secret. Your card.
-"⬇️ Download Eeko for Android" https://github.com/chiragcreates/Eeko/releases/latest
+
+"⬇️ Download Eeko for Android" 
+
+https://github.com/chiragcreates/Eeko/releases/latest
 
 Free · Android · Offline-focused
 
