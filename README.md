@@ -30,8 +30,7 @@ Eeko is an offline-focused Android app that encrypts text and packages the encry
 ![Eeko Example Card](Screenshot_20261019_012143_Gallery.jpg)
 
 ↓ Download Eeko
-
-The Android APK will be available in the "GitHub Releases" (https://github.com/chiragcreates/Eeko/releases) section once a release has been published.
+(https://github.com/chiragcreates/Eeko/releases)
 
 🔐 Security
 
