@@ -31,7 +31,7 @@ Example Card
 ![Eeko Example Card](screenshots/Screenshot_20261019_012143_Gallery.jpg)
 
 
-** ↓ Download Eeko **
+# Download Eeko
 https://github.com/chiragcreates/Eeko/releases
 
 # 🔐 Security
