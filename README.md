@@ -31,8 +31,8 @@ Example Card
 ![Eeko Example Card](screenshots/Screenshot_20261019_012143_Gallery.jpg)
 
 
-# ↓ Download Eeko
-https://github.com/chiragcreates/Eeko/releases)
+** ↓ Download Eeko **
+https://github.com/chiragcreates/Eeko/releases
 
 # 🔐 Security
 Eeko uses AES-256-GCM authenticated encryption and PBKDF2-HMAC-SHA-256 for password-based key derivation.
