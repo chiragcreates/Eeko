@@ -7,18 +7,6 @@ https://github.com/chiragcreates/Eeko/releases/latest
 Free · Android · Offline-focused
 Eeko is an offline-focused Android app that encrypts text and packages the encrypted data into PNG image cards.
 
-# ✳ Why Eeko?
-- 🔐 Password-protected messages — encrypt text using a password.
-- 🖼️ PNG message cards — save encrypted data inside an image card.
-- 📴 Offline-focused — designed to work without an internet connection.
-- 🔄 Import and export — use Android's file picker to open and save cards.
-
-# ↗ How it works
-1. Write your message.
-2. Encrypt it with a password.
-3. Save the resulting PNG card.
-4. Open the card in Eeko and enter the correct password to decrypt it.
-
 #  Screenshots
 
 Encode
@@ -30,6 +18,18 @@ Decode
 Example Card
 ![Eeko Example Card](screenshots/Screenshot_20261019_012143_Gallery.jpg)
 
+
+# ✳ Why Eeko?
+- 🔐 Password-protected messages — encrypt text using a password.
+- 🖼️ PNG message cards — save encrypted data inside an image card.
+- 📴 Offline-focused — designed to work without an internet connection.
+- 🔄 Import and export — use Android's file picker to open and save cards.
+
+# ↗ How it works
+1. Write your message.
+2. Encrypt it with a password.
+3. Save the resulting PNG card.
+4. Open the card in Eeko and enter the correct password to decrypt it.
 
 # Download Eeko
 https://github.com/chiragcreates/Eeko/releases
