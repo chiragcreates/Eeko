@@ -38,7 +38,6 @@ Use a strong, unique password. Anyone who obtains a card can attempt password gu
 
 # About the project
 Eeko is an independent Android project exploring a different way to package encrypted messages.
-The source code is available in this repository for inspection and further development.
 
 ---
 
